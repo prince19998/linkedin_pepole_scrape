@@ -1,0 +1,10 @@
+# library need to indtall
+
+requests
+BeautifulSoup
+pandas 
+webdriver
+selenium
+csv
+time
+chromedriver
